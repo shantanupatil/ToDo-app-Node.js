@@ -1,0 +1,12 @@
+body {
+  font-family: serif;
+}
+
+h1 {
+  font-family: monospace;
+  font-weight: 800;
+}
+
+.btn-complete {
+  border: 0px;
+}
